@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @TheDevSnow
 - 👀 I’m interested in ROBLOX STUDIO scripts.
-- 🌱 I’m currently learning Python/Lua/Json/HTML.
+- 🌱 I’m currently learning Python/Lua/Json.
 - 💞️ I’m looking to collaborate on something
-- 📫 How to reach me ...
+- 📫 How to reach me contact me VIA...
 - 😄 Pronouns: ... 
 - ⚡ Fun fact: I code stuff.
 
